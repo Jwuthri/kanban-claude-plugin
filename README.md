@@ -3,7 +3,8 @@
 **One board for every Claude session you run.** See at a glance which session waits on you,
 which ones are working, which are stuck, and which are done, without clicking through the sidebar.
 
-![Example view of the Mission Control board with made-up sessions](assets/board.png)
+
+<img width="1535" height="1025" alt="image" src="https://github.com/user-attachments/assets/9f659242-e18a-4bd5-9259-f163a39f12c5" />
 
 ## What you get
 
