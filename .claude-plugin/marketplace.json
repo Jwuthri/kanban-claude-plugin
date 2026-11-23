@@ -1,0 +1,5 @@
+{
+  "name": "kanban-claude-plugin",
+  "owner": { "name": "Jwuthri" },
+  "plugins": [{ "name": "mission-control", "source": "./" }]
+}

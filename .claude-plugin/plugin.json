@@ -1,0 +1,6 @@
+{
+  "name": "mission-control",
+  "version": "0.2.3",
+  "description": "One Kanban board for every Claude session you run: see what needs you, what is working, what is stuck and what is done. Backlog, background agents, one-click open.",
+  "types": "./types/index.d.ts"
+}
